@@ -8,4 +8,6 @@ public class SecretLocker {
 		SecretLocker(int secretKey){
 			this.secretKey= secretKey;
 		}
+		
+		int things_Count;
 }
